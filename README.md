@@ -1,6 +1,6 @@
 ## Gpui Based Calculator
 
-<img width="1002" alt="image" src="https://github.com/kriskw1999/gpui-calculator/assets/71312948/585d96cf-3976-4356-9eac-42939c1d2031">
+<img width="1002" alt="image" src="https://github.com/icarusvagner/gpui-calculator-remake/blob/master/assets/Screenshot_20251110_222323.png">
 
 This is a simple calculator that can perform basic arithmetic operations. It is built using Rust and the Zed Gpui library. The calculator has a simple GUI that allows users to input numbers and operators using buttons. The calculator can perform addition, subtraction, multiplication, and division. It also has a clear button that allows users to clear the input field.
 
